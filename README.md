@@ -91,8 +91,7 @@ The highest-impact retention strategies are not promotional — they are **targe
 
 ## Related Links
 
-* LinkedIn post: `<insert LinkedIn link>`
-* Slide deck preview: `https://github.com/s3thu76/revenue-leakage-consulting-case/blob/main/Revenue_Leakage_Consulting_Case.pdf`
+* LinkedIn post: `https://www.linkedin.com/posts/sethu76_revenueleakageexecutiveversion-activity-7409933473802526720-d_qo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADd5W9ABvd6wsuaKNWdhjFpqtF7tp_zU8ak`
 
 ---
 
